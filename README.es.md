@@ -9,6 +9,8 @@
 Un bloc de notas extremadamente rápido, ligero y nativo para Windows escrito en **Rust**. 
 Diseñado para evitar la telemetría y el bloatware, siendo una alternativa moderna, eficiente y minimalista al Bloc de notas clásico de Windows.
 
+![image](assets/ram_memory.png)
+
 ## ✨ Características
 
 - 🚀 **Super Ligero**: Escrito en Rust utilizando las APIs nativas de Windows (Win32).
