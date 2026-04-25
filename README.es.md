@@ -28,9 +28,7 @@ Diseñado para evitar la telemetría y el bloatware, siendo una alternativa mode
 
 Puedes descargar la última versión ya compilada (el ejecutable `.exe` listo para usar) desde las siguientes plataformas:
 
-👉 **[Descargar en Gumroad - Paga lo que quieras] (TODO: Añade enlace)**
-👉 **[Descargar en Itch.io] (TODO: Añade enlace)**
-👉 **[Descargar desde GitHub Releases] (https://github.com/mariolobato/native_notes_pad/releases)**
+👉 **[Descargar en Itch.io - Paga lo que quieras] (https://mariolobato.itch.io/native-notes-pad)**
 
 ## 🛠️ Compilar desde el código fuente
 
