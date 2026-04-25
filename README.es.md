@@ -11,6 +11,14 @@ Diseñado para evitar la telemetría y el bloatware, siendo una alternativa mode
 
 ![image](assets/ram_memory.png)
 
+## 📥 Descarga
+
+Descarga la última versión (el ejecutable `.exe` listo para usar) desde las siguientes plataformas:
+
+👉 **[Descargar en Itch.io - Paga lo que quieras] (https://mariolobato.itch.io/native-notes-pad)**
+
+---
+
 ## ✨ Características
 
 - 🚀 **Super Ligero**: Escrito en Rust utilizando las APIs nativas de Windows (Win32).
@@ -24,11 +32,6 @@ Diseñado para evitar la telemetría y el bloatware, siendo una alternativa mode
 - 💾 **Soporte UTF-16 y ASCII**: Manejo nativo de múltiples formatos de codificación para evitar problemas con caracteres especiales.
 - 🖥️ **Para Windows 11 y Windows 10**: Totalmente optimizado para las últimas versiones de Windows.
 
-## 📥 Descarga
-
-Puedes descargar la última versión ya compilada (el ejecutable `.exe` listo para usar) desde las siguientes plataformas:
-
-👉 **[Descargar en Itch.io - Paga lo que quieras] (https://mariolobato.itch.io/native-notes-pad)**
 
 ## 🛠️ Compilar desde el código fuente
 
