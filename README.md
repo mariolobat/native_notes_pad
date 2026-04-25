@@ -9,7 +9,15 @@
 An extremely fast, lightweight, and native notepad for Windows written in **Rust**. 
 Designed to be a modern, efficient, and minimalist alternative to the classic Windows Notepad, featuring enhanced zoom, multilingual support, and ultra-low resource consumption.
 
-![image](assets/ram_memory.png)
+<img width="752" height="242" alt="RAM Usage" src="assets/ram_memory.png" />
+
+## 📥 Download
+
+Get the latest pre-compiled version (ready-to-use `.exe`) from the following platforms:
+
+👉 **[Download from Itch.io - Pay what you want] (https://mariolobato.itch.io/native-notes-pad)**
+
+---
 
 ## ✨ Features
 
@@ -23,14 +31,6 @@ Designed to be a modern, efficient, and minimalist alternative to the classic Wi
 - 🎨 **Font Customization**: Choose any typography installed on your system.
 - 💾 **UTF-16 & ASCII Support**: Native handling of multiple encoding formats to ensure compatibility with special characters.
 - 🖥️ **Windows Native**: Specifically optimized for Windows 10 and Windows 11.
-
-## 📥 Download
-
-You can download the latest pre-compiled version (ready-to-use `.exe`) from the following platforms:
-
-👉 **[Download from Gumroad - Pay what you want] (TODO: Add link)**
-👉 **[Download from Itch.io] (TODO: Add link)**
-👉 **[Download from GitHub Releases] (https://github.com/mariolobato/native_notes_pad/releases)**
 
 ## 🛠️ Build from Source
 
