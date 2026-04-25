@@ -17,6 +17,8 @@ Descarga la última versión (el ejecutable `.exe` listo para usar) desde las si
 
 👉 **[Descargar en Itch.io - Paga lo que quieras] (https://mariolobato.itch.io/native-notes-pad)**
 
+👉 **[Descargar en ko-fi.com - Paga lo que quieras] ((https://ko-fi.com/s/9595386605)**
+
 ---
 
 ## ✨ Características
