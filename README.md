@@ -9,6 +9,8 @@
 An extremely fast, lightweight, and native notepad for Windows written in **Rust**. 
 Designed to be a modern, efficient, and minimalist alternative to the classic Windows Notepad, featuring enhanced zoom, multilingual support, and ultra-low resource consumption.
 
+(Sorry of this image of the task manager in spanish)
+
 <img width="752" height="242" alt="RAM Usage" src="assets/ram_memory.png" />
 
 ## 📥 Download
