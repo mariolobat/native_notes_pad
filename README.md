@@ -9,6 +9,8 @@
 An extremely fast, lightweight, and native notepad for Windows written in **Rust**. 
 Designed to be a modern, efficient, and minimalist alternative to the classic Windows Notepad, featuring enhanced zoom, multilingual support, and ultra-low resource consumption.
 
+![image](assets/ram_memory.png)
+
 ## ✨ Features
 
 - 🚀 **Super Lightweight**: Written in Rust using native Windows APIs (Win32).
