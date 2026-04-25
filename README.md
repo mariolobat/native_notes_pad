@@ -17,9 +17,9 @@ Designed to be a modern, efficient, and minimalist alternative to the classic Wi
 
 Get the latest pre-compiled version (ready-to-use `.exe`) from the following platforms:
 
-👉 **[Download from Itch.io - Pay what you want] (https://mariolobato.itch.io/native-notes-pad)**.
+👉 **[Download from Itch.io - Pay what you want] (https://mariolobato.itch.io/native-notes-pad)**
 
-👉 **[Download from ko-fi.com - Pay what you want] (https://ko-fi.com/s/9595386605))**.
+👉 **[Download from ko-fi.com - Pay what you want] (https://ko-fi.com/s/9595386605)**
 
 
 ---
