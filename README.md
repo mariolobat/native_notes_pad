@@ -59,6 +59,5 @@ If you prefer to compile the project yourself, make sure you have [Rust and Carg
 This project is open-source and free to use. If you find it helpful, consider buying me a coffee or making a small donation to support further development:
 
 - [Support on Ko-fi](https://ko-fi.com/mariolobato)
-- [Donate on Gumroad] (TODO: Add link)
 
 Thank you for using Native Notes Pad!
