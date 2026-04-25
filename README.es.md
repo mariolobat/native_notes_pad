@@ -58,6 +58,5 @@ Si prefieres compilar el proyecto tú mismo, asegúrate de tener [Rust y Cargo](
 Este proyecto es de código abierto. Si te resulta útil en tu día a día, considera invitarme a un café para apoyar el desarrollo continuo:
 
 - [Apoyar en Ko-fi](https://ko-fi.com/mariolobato)
-- [Donar en Gumroad] (TODO: Añade enlace)
 
 ¡Gracias por usar Native Notes Pad!
